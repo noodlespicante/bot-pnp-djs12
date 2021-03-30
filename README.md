@@ -21,4 +21,4 @@ Links
 Status
 ----
 
-**Esse projeto foi descontinuado temporariamente por desnecessidade.**
+**Esse projeto foi interrompido temporariamente por desnecessidade.**
