@@ -1,5 +1,5 @@
-# Bot Noodles Picante DJS-v.12
-Versão do bot da Noodles Picante na versão 12.2.0 da Discord.js (discontinued)
+# Bot Noodles Picante DJS-v.12 (discontinued)
+Versão do bot da Noodles Picante na versão 12.2.0 da Discord.js
 
 Licença
 ----
@@ -17,3 +17,8 @@ Links
    [Twitter]: <https://twitter.noodlespicante.ml>
    [Email]: <mailto:suporte@noodlespicante.tk>
    [MIT]: <https://github.com/noodlespicante/bot-pnp-djs12/blob/main/LICENSE.md>
+
+Status
+----
+
+**Esse projeto foi descontinuado temporariamente por desnecessidade.**
