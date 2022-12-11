@@ -13,11 +13,11 @@ Links
 [Site][Site] | [Discord][Discord] | [YouTube][YouTube] | [Twitter][Twitter] | [Email][Email]
 ------ | ------ | ------ | ------ | ------ |
 
-   [Site]: <https://www.noodlespicante.ml>
-   [Discord]: <https://discord.noodlespicante.ml>
-   [YouTube]: <https://youtube.noodlespicante.ml>
-   [Twitter]: <https://twitter.noodlespicante.ml>
-   [Email]: <mailto:suporte@noodlespicante.tk>
+   [Site]: <https://www.noodlespicante.site>
+   [Discord]: <https://discord.gg/P9dhMJQ>
+   [YouTube]: <https://www.youtube.com/NoodlesPicante>
+   [Twitter]: <https://twitter.com/NoodlesPicante>
+   [Email]: <mailto:suporte@noodlespicante.site>
    [MIT]: <https://github.com/noodlespicante/bot-pnp-djs12/blob/main/LICENSE.md>
 
 Status
