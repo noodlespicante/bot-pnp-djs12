@@ -24,4 +24,5 @@ Status
 ----
 
 **Esse projeto foi interrompido permanentemente por desnecessidade.**
+<br>
 O bot oficial da Noodles Picante será executado na versão 13 da Discord.js, não sendo necessário usar a versão 12.
